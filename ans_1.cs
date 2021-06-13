@@ -4,7 +4,7 @@ namespace ConsoleApp13
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //////////////ORIGINAL////////////////////
         {
             int a, s, d, f, g, h, j, k, l, z;
             Console.WriteLine();
