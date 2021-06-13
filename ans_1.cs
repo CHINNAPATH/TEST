@@ -1,10 +1,10 @@
 ﻿using System;
-
+/////////////////////////////////////////////////////ORIGINAL////////////////////////////////////////////////////////////////
 namespace ConsoleApp13
 {
     class Program
     {
-        static void Main(string[] args) //////////////ORIGINAL////////////////////
+        static void Main(string[] args) 
         {
             int a, s, d, f, g, h, j, k, l, z;
             Console.WriteLine();
